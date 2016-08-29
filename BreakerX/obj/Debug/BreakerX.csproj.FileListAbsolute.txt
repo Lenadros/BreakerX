@@ -1,0 +1,87 @@
+c:\users\tsail\documents\visual studio 2015\Projects\BreakerX\BreakerX\bin\Android\AnyCPU\Debug\BreakerX.dll
+c:\users\tsail\documents\visual studio 2015\Projects\BreakerX\BreakerX\bin\Android\AnyCPU\Debug\BreakerX.pdb
+c:\users\tsail\documents\visual studio 2015\Projects\BreakerX\BreakerX\bin\Android\AnyCPU\Debug\BreakerX.BreakerX.apk
+c:\users\tsail\documents\visual studio 2015\Projects\BreakerX\BreakerX\bin\Android\AnyCPU\Debug\BreakerX.BreakerX-Signed.apk
+c:\users\tsail\documents\visual studio 2015\Projects\BreakerX\BreakerX\bin\Android\AnyCPU\Debug\MonoGame.Framework.dll
+c:\users\tsail\documents\visual studio 2015\Projects\BreakerX\BreakerX\bin\Android\AnyCPU\Debug\MonoGame.Framework.xml
+c:\users\tsail\documents\visual studio 2015\Projects\BreakerX\BreakerX\obj\Debug\BreakerX.csprojResolveAssemblyReference.cache
+c:\users\tsail\documents\visual studio 2015\Projects\BreakerX\BreakerX\obj\Debug\BreakerX.dll
+c:\users\tsail\documents\visual studio 2015\Projects\BreakerX\BreakerX\obj\Debug\BreakerX.pdb
+c:\users\tsail\documents\visual studio 2015\Projects\BreakerX\BreakerX\obj\Debug\android\bin\BreakerX.BreakerX.apk
+c:\users\tsail\documents\visual studio 2015\Projects\BreakerX\BreakerX\obj\Debug\res\values\strings.xml
+c:\users\tsail\documents\visual studio 2015\Projects\BreakerX\BreakerX\obj\Debug\res\drawable\icon.png
+c:\users\tsail\documents\visual studio 2015\Projects\BreakerX\BreakerX\obj\Debug\res\drawable\splash.png
+c:\users\tsail\documents\visual studio 2015\Projects\BreakerX\BreakerX\obj\Debug\res\values\styles.xml
+c:\users\tsail\documents\visual studio 2015\Projects\BreakerX\BreakerX\obj\Debug\R.cs.flag
+c:\users\tsail\documents\visual studio 2015\Projects\BreakerX\BreakerX\obj\Debug\uploadflags.txt
+c:\users\tsail\documents\visual studio 2015\Projects\BreakerX\BreakerX\bin\Android\AnyCPU\Debug\BreakerX.dll.mdb
+c:\users\tsail\documents\visual studio 2015\Projects\BreakerX\BreakerX\bin\Android\AnyCPU\Debug\Java.Interop.dll.mdb
+c:\users\tsail\documents\visual studio 2015\Projects\BreakerX\BreakerX\bin\Android\AnyCPU\Debug\Mono.Android.dll.mdb
+c:\users\tsail\documents\visual studio 2015\Projects\BreakerX\BreakerX\bin\Android\AnyCPU\Debug\mscorlib.dll.mdb
+c:\users\tsail\documents\visual studio 2015\Projects\BreakerX\BreakerX\bin\Android\AnyCPU\Debug\OpenTK-1.0.dll.mdb
+c:\users\tsail\documents\visual studio 2015\Projects\BreakerX\BreakerX\bin\Android\AnyCPU\Debug\System.ComponentModel.Composition.dll.mdb
+c:\users\tsail\documents\visual studio 2015\Projects\BreakerX\BreakerX\bin\Android\AnyCPU\Debug\System.Core.dll.mdb
+c:\users\tsail\documents\visual studio 2015\Projects\BreakerX\BreakerX\bin\Android\AnyCPU\Debug\System.dll.mdb
+c:\users\tsail\documents\visual studio 2015\Projects\BreakerX\BreakerX\bin\Android\AnyCPU\Debug\System.Net.Http.dll.mdb
+c:\users\tsail\documents\visual studio 2015\Projects\BreakerX\BreakerX\bin\Android\AnyCPU\Debug\System.Runtime.Serialization.dll.mdb
+c:\users\tsail\documents\visual studio 2015\Projects\BreakerX\BreakerX\bin\Android\AnyCPU\Debug\System.ServiceModel.Internals.dll.mdb
+c:\users\tsail\documents\visual studio 2015\Projects\BreakerX\BreakerX\bin\Android\AnyCPU\Debug\System.Xml.dll.mdb
+c:\users\tsail\documents\visual studio 2015\Projects\BreakerX\BreakerX\bin\Android\AnyCPU\Debug\System.Xml.Linq.dll.mdb
+c:\users\tsail\documents\visual studio 2015\Projects\BreakerX\BreakerX\obj\Debug\android\assets\BreakerX.dll.mdb
+c:\users\tsail\documents\visual studio 2015\Projects\BreakerX\BreakerX\obj\Debug\android\assets\Java.Interop.dll.mdb
+c:\users\tsail\documents\visual studio 2015\Projects\BreakerX\BreakerX\obj\Debug\android\assets\Mono.Android.dll.mdb
+c:\users\tsail\documents\visual studio 2015\Projects\BreakerX\BreakerX\obj\Debug\android\assets\mscorlib.dll.mdb
+c:\users\tsail\documents\visual studio 2015\Projects\BreakerX\BreakerX\obj\Debug\android\assets\OpenTK-1.0.dll.mdb
+c:\users\tsail\documents\visual studio 2015\Projects\BreakerX\BreakerX\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+c:\users\tsail\documents\visual studio 2015\Projects\BreakerX\BreakerX\obj\Debug\android\assets\System.Core.dll.mdb
+c:\users\tsail\documents\visual studio 2015\Projects\BreakerX\BreakerX\obj\Debug\android\assets\System.dll.mdb
+c:\users\tsail\documents\visual studio 2015\Projects\BreakerX\BreakerX\obj\Debug\android\assets\System.Net.Http.dll.mdb
+c:\users\tsail\documents\visual studio 2015\Projects\BreakerX\BreakerX\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+c:\users\tsail\documents\visual studio 2015\Projects\BreakerX\BreakerX\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+c:\users\tsail\documents\visual studio 2015\Projects\BreakerX\BreakerX\obj\Debug\android\assets\System.Xml.dll.mdb
+c:\users\tsail\documents\visual studio 2015\Projects\BreakerX\BreakerX\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\tsail\Documents\Visual Studio 2015\Projects\BreakerX\BreakerX\obj\Debug\BreakerX.dll.mdb
+C:\Users\tsail\Documents\BreakerX\BreakerX\bin\Android\AnyCPU\Debug\BreakerX.dll
+C:\Users\tsail\Documents\BreakerX\BreakerX\bin\Android\AnyCPU\Debug\BreakerX.pdb
+C:\Users\tsail\Documents\BreakerX\BreakerX\bin\Android\AnyCPU\Debug\BreakerX.BreakerX.apk
+C:\Users\tsail\Documents\BreakerX\BreakerX\bin\Android\AnyCPU\Debug\BreakerX.BreakerX-Signed.apk
+C:\Users\tsail\Documents\BreakerX\BreakerX\bin\Android\AnyCPU\Debug\MonoGame.Framework.dll
+C:\Users\tsail\Documents\BreakerX\BreakerX\bin\Android\AnyCPU\Debug\MonoGame.Framework.xml
+C:\Users\tsail\Documents\BreakerX\BreakerX\obj\Debug\BreakerX.csprojResolveAssemblyReference.cache
+C:\Users\tsail\Documents\BreakerX\BreakerX\obj\Debug\BreakerX.dll
+C:\Users\tsail\Documents\BreakerX\BreakerX\obj\Debug\BreakerX.pdb
+C:\Users\tsail\Documents\BreakerX\BreakerX\obj\Debug\android\bin\BreakerX.BreakerX.apk
+C:\Users\tsail\Documents\BreakerX\BreakerX\obj\Debug\res\values\strings.xml
+C:\Users\tsail\Documents\BreakerX\BreakerX\obj\Debug\res\drawable\icon.png
+C:\Users\tsail\Documents\BreakerX\BreakerX\obj\Debug\res\drawable\splash.png
+C:\Users\tsail\Documents\BreakerX\BreakerX\obj\Debug\res\values\styles.xml
+C:\Users\tsail\Documents\BreakerX\BreakerX\obj\Debug\R.cs.flag
+C:\Users\tsail\Documents\BreakerX\BreakerX\obj\Debug\uploadflags.txt
+C:\Users\tsail\Documents\BreakerX\BreakerX\bin\Android\AnyCPU\Debug\BreakerX.dll.mdb
+C:\Users\tsail\Documents\BreakerX\BreakerX\bin\Android\AnyCPU\Debug\Java.Interop.dll.mdb
+C:\Users\tsail\Documents\BreakerX\BreakerX\bin\Android\AnyCPU\Debug\Mono.Android.dll.mdb
+C:\Users\tsail\Documents\BreakerX\BreakerX\bin\Android\AnyCPU\Debug\mscorlib.dll.mdb
+C:\Users\tsail\Documents\BreakerX\BreakerX\bin\Android\AnyCPU\Debug\OpenTK-1.0.dll.mdb
+C:\Users\tsail\Documents\BreakerX\BreakerX\bin\Android\AnyCPU\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\tsail\Documents\BreakerX\BreakerX\bin\Android\AnyCPU\Debug\System.Core.dll.mdb
+C:\Users\tsail\Documents\BreakerX\BreakerX\bin\Android\AnyCPU\Debug\System.dll.mdb
+C:\Users\tsail\Documents\BreakerX\BreakerX\bin\Android\AnyCPU\Debug\System.Net.Http.dll.mdb
+C:\Users\tsail\Documents\BreakerX\BreakerX\bin\Android\AnyCPU\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\tsail\Documents\BreakerX\BreakerX\bin\Android\AnyCPU\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\tsail\Documents\BreakerX\BreakerX\bin\Android\AnyCPU\Debug\System.Xml.dll.mdb
+C:\Users\tsail\Documents\BreakerX\BreakerX\bin\Android\AnyCPU\Debug\System.Xml.Linq.dll.mdb
+C:\Users\tsail\Documents\BreakerX\BreakerX\obj\Debug\android\assets\BreakerX.dll.mdb
+C:\Users\tsail\Documents\BreakerX\BreakerX\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\tsail\Documents\BreakerX\BreakerX\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\tsail\Documents\BreakerX\BreakerX\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\tsail\Documents\BreakerX\BreakerX\obj\Debug\android\assets\OpenTK-1.0.dll.mdb
+C:\Users\tsail\Documents\BreakerX\BreakerX\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\tsail\Documents\BreakerX\BreakerX\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\tsail\Documents\BreakerX\BreakerX\obj\Debug\android\assets\System.dll.mdb
+C:\Users\tsail\Documents\BreakerX\BreakerX\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\tsail\Documents\BreakerX\BreakerX\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\tsail\Documents\BreakerX\BreakerX\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\tsail\Documents\BreakerX\BreakerX\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\tsail\Documents\BreakerX\BreakerX\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\tsail\Documents\BreakerX\BreakerX\obj\Debug\BreakerX.dll.mdb
+C:\Users\tsail\Documents\BreakerX\BreakerX\bin\Android\AnyCPU\Debug\BreakerX.dll.mdb

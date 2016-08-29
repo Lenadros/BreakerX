@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Android</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/tsail/Documents/BreakerX/BreakerX/Content/Paddle.png</File>
+    <File>C:/Users/tsail/Documents/BreakerX/BreakerX/Content/Ball.png</File>
+    <File>C:/Users/tsail/Documents/BreakerX/BreakerX/Content/Block.png</File>
+    <File>C:/Users/tsail/Documents/BreakerX/BreakerX/Content/BlockAnimation.png</File>
+    <File>C:/Users/tsail/Documents/BreakerX/BreakerX/Content/Background.png</File>
+    <File>C:/Users/tsail/Documents/BreakerX/BreakerX/Content/Courier New.spritefont</File>
+    <File>C:/Users/tsail/Documents/BreakerX/BreakerX/Content/MultiBlock.png</File>
+    <File>C:/Users/tsail/Documents/BreakerX/BreakerX/Content/XAnimation.png</File>
+    <File>C:/Users/tsail/Documents/BreakerX/BreakerX/Content/Sans.spritefont</File>
+    <File>C:/Users/tsail/Documents/BreakerX/BreakerX/Content/GameOver.png</File>
+  </SourceFiles>
+</SourceFileCollection>
